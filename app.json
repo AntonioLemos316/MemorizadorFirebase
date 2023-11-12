@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "MemorizadorFirebase",
-    "slug": "MemorizadorFirebase"
+    "slug": "MemorizadorFirebase",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2705eedd-f639-4681-8d1b-3f7c97996533"
+      }
+    },
+    "android": {
+      "package": "com.antonio316.MemorizadorFirebase"
+    }
   }
 }
